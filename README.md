@@ -2,8 +2,6 @@
 
 <img src="src/Banni%C3%A8re%20HaasGa-Factory.png" alt="Bannière HaasGa Factory" width="100%">
 
-# HaasGa Factory
-
 **Homelab · Open source · Automatisation IT**
 
 Des projets concrets autour de l'administration système, des réseaux, de l'auto-hébergement et de la fabrication numérique.
