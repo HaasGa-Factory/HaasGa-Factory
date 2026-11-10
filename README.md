@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HaasGa-Factory/HaasGa-Factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HaasGa Factory
 
-Here are some ideas to get you started:
+**Homelab · Open source · Automatisation IT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Des projets concrets autour de l'administration système, des réseaux, de l'auto-hébergement et de la fabrication numérique.
+
+[WoL Manager](https://github.com/HaasGa-Factory/WOL-Manager) · [GitHub](https://github.com/HaasGa-Factory)
+
+</div>
+
+## Projet principal
+
+### ⚡ WoL Manager
+
+[WoL Manager](https://github.com/HaasGa-Factory/WOL-Manager) est un gestionnaire Wake-on-LAN open source pour Linux et Debian. Il permet de réveiller, vérifier et orchestrer des machines dans un homelab ou un réseau professionnel, avec groupes, dépendances, relais sécurisés et intégration UPS NUT.
+
+## Ce que construit HaasGa Factory
+
+- administration système, réseau et automatisation ;
+- homelab, serveurs, stockage et continuité électrique ;
+- intégrations Home Assistant et objets connectés ;
+- outils open source, documentation technique et projets DIY ;
+- conception et fabrication 3D fonctionnelle.
+
+## Technologies
+
+`Linux` · `Debian` · `Go` · `Home Assistant` · `Proxmox` · `TrueNAS` · `NUT` · `Wake-on-LAN` · `3D printing`
+
+---
+
+*HaasGa Factory — projets open source, homelab et IT depuis la Suisse.*
