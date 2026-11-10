@@ -1,6 +1,6 @@
 <div align="center">
 
-# HaasGa Factory
+<img src="src/Banni%C3%A8re%20HaasGa-Factory.png" alt="Bannière HaasGa Factory" width="100%">
 
 **Homelab · Open source · Automatisation IT**
 
